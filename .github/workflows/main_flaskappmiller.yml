@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'flaskappmiller'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06F58F72FA6641119AB990AE8036800B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7346D9EBA2B044B6A18BB5BEBDACC0E1 }}
